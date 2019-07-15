@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Drum/static/css/main.ed11e440.chunk.css",
+    "main.js": "/Drum/static/js/main.13022b9c.chunk.js",
+    "main.js.map": "/Drum/static/js/main.13022b9c.chunk.js.map",
+    "runtime~main.js": "/Drum/static/js/runtime~main.9ae2b7cf.js",
+    "runtime~main.js.map": "/Drum/static/js/runtime~main.9ae2b7cf.js.map",
+    "static/js/2.158f2d9c.chunk.js": "/Drum/static/js/2.158f2d9c.chunk.js",
+    "static/js/2.158f2d9c.chunk.js.map": "/Drum/static/js/2.158f2d9c.chunk.js.map",
+    "index.html": "/Drum/index.html",
+    "precache-manifest.e88cad47807d2d778dc28305768261b5.js": "/Drum/precache-manifest.e88cad47807d2d778dc28305768261b5.js",
+    "service-worker.js": "/Drum/service-worker.js",
+    "static/css/main.ed11e440.chunk.css.map": "/Drum/static/css/main.ed11e440.chunk.css.map",
+    "static/media/n2d.png": "/Drum/static/media/n2d.ce6a1dcd.png"
+  }
+}
