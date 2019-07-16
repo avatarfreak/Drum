@@ -3,6 +3,7 @@ import "./App.css";
 import n2d from "./n2d.png";
 import samples from "./components/Samples";
 import Drumpad from "./components/Drumpad";
+import Footer from "./components/Footer";
 
 export class App extends Component {
   constructor(props) {
@@ -71,6 +72,7 @@ export class App extends Component {
             />
           ))}
         </div>
+        <Footer />
       </div>
     );
   }

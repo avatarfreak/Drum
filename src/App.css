@@ -61,7 +61,12 @@ p.drum-title {
   background: orange;
   margin: 30px 10px;
 }
-
+.footer {
+  color: rgb(180, 175, 175);
+  font-family: cursive;
+  letter-spacing: 2px;
+  font-size: 14px;
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 10vmin;
